@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources:
+    - "archivos/*.pdf"
+
+lang: es
+
+website:
+  title: "🐧 Sistemas Operativos"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: "🏠 Inicio"
+      - href: deberes.qmd
+        text: "📘 Deberes"
+      - href: clases.qmd
+        text: "🧑‍🏫 Trabajos en clase"
+      - href: laboratorios.qmd
+        text: "🧪 Laboratorios"
+      - href: about.qmd
+        text: "👤 Acerca de mí"
+    right:
+      - icon: github
+        href: https://github.com/FABU1919
+  page-footer:
+    center: "© 2026 Justin Cusquillo · 🐧 Sistemas Operativos · Hecho con Quarto"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    code-copy: true
+    smooth-scroll: true

@@ -1,0 +1,33 @@
+---
+title: "👤 Acerca de mí"
+---
+
+```bash
+$ whoami
+Justin Cusquillo 
+$ cat materia.txt
+Sistemas Operativos
+```
+
+¡Hola! Soy **Justin Cusquillo **, estudiante de la Escuela Politécnica Nacional, actualmente cursando el tercer semestre de la carrera de Ingeniería en Ciencias de la Computación. Me apasiona la tecnología y la programación, y siempre estoy buscando aprender y mejorar mis habilidades
+
+
+## 🎯 ¿Para qué sirve este blog?
+
+- 📘 **Deberes:** mis tareas resueltas, con el procedimiento explicado.
+- 🧑‍🏫 **Trabajos en clase:** apuntes y ejercicios de cada sesión.
+- 🧪 **Laboratorios:** prácticas con comandos, resultados y conclusiones..
+
+
+## Herramientas que uso
+
+- 🐧 Linux (Ubuntu / WSL) y la terminal Bash
+- 💻 VS Code
+- 📄 Quarto para este blog
+- 🌐 Git y GitHub
+
+## Contacto
+
+- GitHub: [FABU1919](https://github.com/FABU1919)
+- LinkedIn: [Justin-Fabian-Cusquillo-Guadamud](https://www.linkedin.com/in/justin-fabian-cusquillo-guadamud-b41728419/)
+- Numero de contacto: +593986159658

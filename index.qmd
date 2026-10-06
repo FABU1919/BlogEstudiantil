@@ -1,0 +1,40 @@
+---
+title: ""
+toc: false
+---
+
+::: {.hero}
+# 🐧 Sistemas Operativos
+💻 Mis deberes, trabajos en clase y laboratorios de la materia.
+:::
+## 🗂️ Secciones
+
+::: {.card-post}
+### 📘 Deberes
+<span class="etiqueta">✏️ Tareas</span>
+
+Deberes y ejercicios que entrego semana a semana.
+
+[Ver deberes →](deberes.qmd)
+:::
+
+::: {.card-post}
+### 🧑‍🏫 Trabajos en clase
+<span class="etiqueta">Clase</span>
+
+Actividades y ejercicios desarrollados durante las clases.
+
+[Ver trabajos en clase →](clases.qmd)
+:::
+
+::: {.card-post}
+### 🧪 Laboratorios
+<span class="etiqueta">Práctica</span><span class="etiqueta">Linux</span>
+
+Prácticas de laboratorio con comandos, procesos, memoria y más.
+
+[Ver laboratorios →](laboratorios.qmd)
+:::
+
+## Temas de la materia
+

@@ -1,0 +1,11 @@
+---
+title: "🧑‍🏫 Trabajos en clase"
+listing:
+  contents: clases
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [date, title, description, categories]
+---
+
+📝 Actividades y ejercicios realizados durante las clases de Sistemas Operativos.

@@ -1,0 +1,11 @@
+---
+title: "📘 Deberes"
+listing:
+  contents: deberes
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [date, title, description, categories]
+---
+
+✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.

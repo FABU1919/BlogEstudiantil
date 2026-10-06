@@ -1,0 +1,21 @@
+---
+title: "🧪 Laboratorio 1"
+description: "Informe del primer laboratorio de Sistemas Operativos."
+date: 2026-10-06
+categories: [Laboratorio]
+toc: true
+---
+
+## 📋 Resumen
+
+Este laboratorio se centró en la ejecución de comandos básicos de Linux en un entorno de Ubuntu Server utilizando exclusivamente la terminal. A lo largo de la práctica, se abarcó la navegación por el sistema de archivos, la administración de usuarios, la creación y gestión de directorios, y la edición de scripts utilizando herramientas nativas como vim y nano.
+
+## 📄 Informe en PDF
+
+[📥 Descargar PDF](../archivos/lab-01.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/lab-01.pdf"></iframe>
+
+## ✅ Conclusiones
+
+Aprendí a administrar de manera ágil y autónoma un servidor sin depender de interfaces gráficas, comprendiendo la lógica detrás de las rutas absolutas y relativas. Además, desarrollé la capacidad de gestionar sesiones en diferentes terminales virtuales (TTY) y de utilizar los manuales integrados del sistema para resolver dudas técnicas por mi cuenta

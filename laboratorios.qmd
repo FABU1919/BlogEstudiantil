@@ -1,0 +1,11 @@
+---
+title: "🧪 Laboratorios"
+listing:
+  contents: laboratorios
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [date, title, description, categories]
+---
+
+🐧 Prácticas de laboratorio de Sistemas Operativos, con comandos, resultados y conclusiones.
