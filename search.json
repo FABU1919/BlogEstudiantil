@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "laboratorios.html",
+    "href": "laboratorios.html",
+    "title": "🧪 Laboratorios",
+    "section": "",
+    "text": "🐧 Prácticas de laboratorio de Sistemas Operativos, con comandos, resultados y conclusiones.\n\n\n\n\n\n\n\n\n\n🧪 Laboratorio 1\n\n\n\nLaboratorio\n\n\n\nInforme del primer laboratorio de Sistemas Operativos.\n\n\n\n\n\n6 oct 2026\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "🐧 Sistemas Operativos",
+    "section": "",
+    "text": "💻 Mis deberes, trabajos en clase y laboratorios de la materia."
+  },
+  {
+    "objectID": "index.html#secciones",
+    "href": "index.html#secciones",
+    "title": "🐧 Sistemas Operativos",
+    "section": "🗂️ Secciones",
+    "text": "🗂️ Secciones\n\n📘 Deberes\n✏️ Tareas\nDeberes y ejercicios que entrego semana a semana.\nVer deberes →\n\n\n🧑‍🏫 Trabajos en clase\nClase\nActividades y ejercicios desarrollados durante las clases.\nVer trabajos en clase →\n\n\n🧪 Laboratorios\nPrácticaLinux\nPrácticas de laboratorio con comandos, procesos, memoria y más.\nVer laboratorios →"
+  },
+  {
+    "objectID": "index.html#temas-de-la-materia",
+    "href": "index.html#temas-de-la-materia",
+    "title": "🐧 Sistemas Operativos",
+    "section": "Temas de la materia",
+    "text": "Temas de la materia"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "👤 Acerca de mí",
+    "section": "",
+    "text": "$ whoami\nJustin Cusquillo \n$ cat materia.txt\nSistemas Operativos\n¡Hola! Soy Justin Cusquillo , estudiante de la Escuela Politécnica Nacional, actualmente cursando el tercer semestre de la carrera de Ingeniería en Ciencias de la Computación. Me apasiona la tecnología y la programación, y siempre estoy buscando aprender y mejorar mis habilidades"
+  },
+  {
+    "objectID": "about.html#para-qué-sirve-este-blog",
+    "href": "about.html#para-qué-sirve-este-blog",
+    "title": "👤 Acerca de mí",
+    "section": "🎯 ¿Para qué sirve este blog?",
+    "text": "🎯 ¿Para qué sirve este blog?\n\n📘 Deberes: mis tareas resueltas, con el procedimiento explicado.\n🧑‍🏫 Trabajos en clase: apuntes y ejercicios de cada sesión.\n🧪 Laboratorios: prácticas con comandos, resultados y conclusiones.."
+  },
+  {
+    "objectID": "about.html#herramientas-que-uso",
+    "href": "about.html#herramientas-que-uso",
+    "title": "👤 Acerca de mí",
+    "section": "Herramientas que uso",
+    "text": "Herramientas que uso\n\n🐧 Linux (Ubuntu / WSL) y la terminal Bash\n💻 VS Code\n📄 Quarto para este blog\n🌐 Git y GitHub"
+  },
+  {
+    "objectID": "about.html#contacto",
+    "href": "about.html#contacto",
+    "title": "👤 Acerca de mí",
+    "section": "Contacto",
+    "text": "Contacto\n\nGitHub: FABU1919\nLinkedIn: Justin-Fabian-Cusquillo-Guadamud\nNumero de contacto: +593986159658"
+  },
+  {
+    "objectID": "clases.html",
+    "href": "clases.html",
+    "title": "🧑‍🏫 Trabajos en clase",
+    "section": "",
+    "text": "📝 Actividades y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "deberes.html",
+    "href": "deberes.html",
+    "title": "📘 Deberes",
+    "section": "",
+    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "laboratorios/lab-01.html",
+    "href": "laboratorios/lab-01.html",
+    "title": "🧪 Laboratorio 1",
+    "section": "",
+    "text": "Este laboratorio se centró en la ejecución de comandos básicos de Linux en un entorno de Ubuntu Server utilizando exclusivamente la terminal. A lo largo de la práctica, se abarcó la navegación por el sistema de archivos, la administración de usuarios, la creación y gestión de directorios, y la edición de scripts utilizando herramientas nativas como vim y nano."
+  },
+  {
+    "objectID": "laboratorios/lab-01.html#resumen",
+    "href": "laboratorios/lab-01.html#resumen",
+    "title": "🧪 Laboratorio 1",
+    "section": "",
+    "text": "Este laboratorio se centró en la ejecución de comandos básicos de Linux en un entorno de Ubuntu Server utilizando exclusivamente la terminal. A lo largo de la práctica, se abarcó la navegación por el sistema de archivos, la administración de usuarios, la creación y gestión de directorios, y la edición de scripts utilizando herramientas nativas como vim y nano."
+  },
+  {
+    "objectID": "laboratorios/lab-01.html#informe-en-pdf",
+    "href": "laboratorios/lab-01.html#informe-en-pdf",
+    "title": "🧪 Laboratorio 1",
+    "section": "📄 Informe en PDF",
+    "text": "📄 Informe en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "laboratorios/lab-01.html#conclusiones",
+    "href": "laboratorios/lab-01.html#conclusiones",
+    "title": "🧪 Laboratorio 1",
+    "section": "✅ Conclusiones",
+    "text": "✅ Conclusiones\nAprendí a administrar de manera ágil y autónoma un servidor sin depender de interfaces gráficas, comprendiendo la lógica detrás de las rutas absolutas y relativas. Además, desarrollé la capacidad de gestionar sesiones en diferentes terminales virtuales (TTY) y de utilizar los manuales integrados del sistema para resolver dudas técnicas por mi cuenta"
+  }
+]
