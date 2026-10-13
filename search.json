@@ -18,7 +18,7 @@
     "href": "index.html#secciones",
     "title": "🐧 Sistemas Operativos",
     "section": "🗂️ Secciones",
-    "text": "🗂️ Secciones\n\n📘 Deberes\n✏️ Tareas\nDeberes y ejercicios que entrego semana a semana.\nVer deberes →\n\n\n🧑‍🏫 Trabajos en clase\nClase\nActividades y ejercicios desarrollados durante las clases.\nVer trabajos en clase →\n\n\n🧪 Laboratorios\nPrácticaLinux\nPrácticas de laboratorio con comandos, procesos, memoria y más.\nVer laboratorios →"
+    "text": "🗂️ Secciones\n\n📘 Deberes\n✏️ Tareas\nDeberes y ejercicios que entrego semana a semana.\nVer deberes →\n\n\n🧑‍🏫 Trabajos en clase\nClase\nTareas y ejercicios desarrollados durante las clases.\nVer trabajos en clase →\n\n\n🧪 Laboratorios\n🐧 Linux⚙️ Práctica\nPrácticas de laboratorio con comandos, procesos, memoria y más.\nVer laboratorios →"
   },
   {
     "objectID": "index.html#temas-de-la-materia",
@@ -26,6 +26,41 @@
     "title": "🐧 Sistemas Operativos",
     "section": "Temas de la materia",
     "text": "Temas de la materia"
+  },
+  {
+    "objectID": "clases/clase-01.html",
+    "href": "clases/clase-01.html",
+    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "section": "",
+    "text": "Interrupciones"
+  },
+  {
+    "objectID": "clases/clase-01.html#tema",
+    "href": "clases/clase-01.html#tema",
+    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "section": "",
+    "text": "Interrupciones"
+  },
+  {
+    "objectID": "clases/clase-01.html#tarea",
+    "href": "clases/clase-01.html#tarea",
+    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "section": "✏️ Tarea",
+    "text": "✏️ Tarea\n\n\n\nEnunciado de la tarea en clase 2\n\n\nSolución:"
+  },
+  {
+    "objectID": "clases/clase-01.html#ejercicios-en-pdf",
+    "href": "clases/clase-01.html#ejercicios-en-pdf",
+    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "section": "📄 Ejercicios en PDF",
+    "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "clases/clase-01.html#conclusión",
+    "href": "clases/clase-01.html#conclusión",
+    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "section": "✅ Conclusión",
+    "text": "✅ Conclusión\nEscribe aquí lo que aprendiste."
   },
   {
     "objectID": "about.html",
@@ -39,7 +74,7 @@
     "href": "about.html#para-qué-sirve-este-blog",
     "title": "👤 Acerca de mí",
     "section": "🎯 ¿Para qué sirve este blog?",
-    "text": "🎯 ¿Para qué sirve este blog?\n\n📘 Deberes: mis tareas resueltas, con el procedimiento explicado.\n🧑‍🏫 Trabajos en clase: apuntes y ejercicios de cada sesión.\n🧪 Laboratorios: prácticas con comandos, resultados y conclusiones.."
+    "text": "🎯 ¿Para qué sirve este blog?\n\n📘 Deberes: mis tareas resueltas, con el procedimiento explicado.\n✏️ Tarea en clase: apuntes y ejercicios de cada sesión.\n🧪 Laboratorios: prácticas con comandos, resultados y conclusiones.."
   },
   {
     "objectID": "about.html#herramientas-que-uso",
@@ -60,7 +95,7 @@
     "href": "clases.html",
     "title": "🧑‍🏫 Trabajos en clase",
     "section": "",
-    "text": "📝 Actividades y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo hay resultados"
+    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 2: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "deberes.html",

@@ -91,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -363,7 +363,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGFyZWElMjBlbiUyMGNsYXNl">Tarea en clase <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -387,24 +387,32 @@ window.Quarto = {
 </header>
 
 
-<p>📝 Actividades y ejercicios realizados durante las clases de Sistemas Operativos.</p>
+<p>📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1791329157510">
+<div class="quarto-post image-right" data-index="0" data-categories="VGFyZWElMjBlbiUyMGNsYXNl" data-listing-date-sort="1791781200000" data-listing-file-modified-sort="1791925659808" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./clases/clase-01.html" class="no-external"></a>
+<a href="./clases/clase-01.html" class="no-external">✏️ Tarea en clase 2: Interrupciones</a>
 </h3>
-<div class="delink listing-description"><a href="./clases/clase-01.html" class="no-external">
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('VGFyZWElMjBlbiUyMGNsYXNl'); return false;">Tarea en clase</div>
+
+</div>
+<div class="delink listing-description"><a href="./clases/clase-01.html" class="no-external">
+Interrupciones
 </a></div>
 </div>
 <div class="metadata">
 <a href="./clases/clase-01.html" class="no-external">
+<div class="listing-date">
+12 oct 2026
+</div>
 </a>
 </div>
 </div>
@@ -497,7 +505,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/FABU1919\.github\.io\/BlogEstudiantil\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
