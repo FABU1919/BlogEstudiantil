@@ -2,6 +2,9 @@ project:
   type: website
   resources:
     - "archivos/*.pdf"
+    - "imagenes/*.png"
+    - "imagenes/*.jpg"
+    - "imagenes/*.jpeg"
 
 lang: es
 

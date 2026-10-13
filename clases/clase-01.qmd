@@ -1,0 +1,26 @@
+---
+title: "✏️ Tarea en clase 2: Interrupciones"
+date: 2026-10-12
+categories: [Tarea en clase]
+toc: true
+---
+
+## 📌 Tema
+
+Interrupciones
+
+## ✏️ Tarea
+
+![Enunciado de la tarea en clase 2](../imagenes/enunciadoTarea1.png){width=100%}
+
+**Solución:**
+
+## 📄 Ejercicios en PDF
+
+[📥 Descargar PDF](../archivos/TareaEnClase1.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/TareaEnClase1.pdf"></iframe>
+
+## ✅ Conclusión
+
+Escribe aquí lo que aprendiste.

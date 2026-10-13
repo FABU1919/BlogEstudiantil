@@ -22,14 +22,14 @@ Deberes y ejercicios que entrego semana a semana.
 ### 🧑‍🏫 Trabajos en clase
 <span class="etiqueta">Clase</span>
 
-Actividades y ejercicios desarrollados durante las clases.
+Tareas y ejercicios desarrollados durante las clases.
 
 [Ver trabajos en clase →](clases.qmd)
 :::
 
 ::: {.card-post}
 ### 🧪 Laboratorios
-<span class="etiqueta">Práctica</span><span class="etiqueta">Linux</span>
+<span class="etiqueta">🐧 Linux</span><span class="etiqueta">⚙️ Práctica</span>
 
 Prácticas de laboratorio con comandos, procesos, memoria y más.
 

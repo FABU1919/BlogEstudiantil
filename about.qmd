@@ -15,7 +15,7 @@ Sistemas Operativos
 ## 🎯 ¿Para qué sirve este blog?
 
 - 📘 **Deberes:** mis tareas resueltas, con el procedimiento explicado.
-- 🧑‍🏫 **Trabajos en clase:** apuntes y ejercicios de cada sesión.
+- ✏️ **Tarea en clase:** apuntes y ejercicios de cada sesión.
 - 🧪 **Laboratorios:** prácticas con comandos, resultados y conclusiones..
 
 

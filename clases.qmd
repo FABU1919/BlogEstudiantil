@@ -8,4 +8,4 @@ listing:
   fields: [date, title, description, categories]
 ---
 
-📝 Actividades y ejercicios realizados durante las clases de Sistemas Operativos.
+📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.
