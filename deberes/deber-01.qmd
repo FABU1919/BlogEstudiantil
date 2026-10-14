@@ -11,10 +11,9 @@ lightbox: true
 ### 🧮 Ejercicio 1
 Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones.
 ![Enunciado del ejercicio 1 ](../imagenes/Ejer1D1.png){width=100%}
+
 ### ⚡ Ejercicio 2
-
 Resolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.
-
 ![Enunciado del ejercicio 2 ](../imagenes/Ejer2D1.png){width=100%}
 ## 📄 Solución en PDF
 
