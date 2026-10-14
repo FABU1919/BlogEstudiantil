@@ -1,5 +1,5 @@
 ---
-title: "✏️ Tarea en clase 2: Interrupciones"
+title: "✏️ Tarea en clase 1: Interrupciones"
 date: 2026-10-12
 categories: [Tarea en clase]
 toc: true
@@ -11,7 +11,7 @@ Interrupciones
 
 ## ✏️ Tarea
 
-![Enunciado de la tarea en clase 2](../imagenes/enunciadoTarea1.png){width=100%}
+![Enunciado de la tarea en clase 1](../imagenes/enunciadoTarea1.png){width=100%}
 
 **Solución:**
 
@@ -21,6 +21,3 @@ Interrupciones
 
 <iframe class="visor-pdf" src="../archivos/TareaEnClase1.pdf"></iframe>
 
-## ✅ Conclusión
-
-Escribe aquí lo que aprendiste.
