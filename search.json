@@ -28,39 +28,46 @@
     "text": "Temas de la materia"
   },
   {
+    "objectID": "deberes/deber-01.html",
+    "href": "deberes/deber-01.html",
+    "title": "📘 Deber 1",
+    "section": "",
+    "text": "![Enunciado del ejercicio 1 ][Ejercicio 1: Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones.](../imagenes/Ejer1D1.png.png){width=100%} ![Enunciado del ejercicio 2 ][Ejercicio 2: Resolver el ejercicio de gestión de interrupciones en una Raspberry Pi, presentado en la segunda imagen. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento](../imagenes/Ejer2D1.png.png){width=100%} ## 📄 Solución en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "deberes/deber-01.html#enunciado",
+    "href": "deberes/deber-01.html#enunciado",
+    "title": "📘 Deber 1",
+    "section": "",
+    "text": "![Enunciado del ejercicio 1 ][Ejercicio 1: Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones.](../imagenes/Ejer1D1.png.png){width=100%} ![Enunciado del ejercicio 2 ][Ejercicio 2: Resolver el ejercicio de gestión de interrupciones en una Raspberry Pi, presentado en la segunda imagen. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento](../imagenes/Ejer2D1.png.png){width=100%} ## 📄 Solución en PDF\n📥 Descargar PDF"
+  },
+  {
     "objectID": "clases/clase-01.html",
     "href": "clases/clase-01.html",
-    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
     "section": "",
     "text": "Interrupciones"
   },
   {
     "objectID": "clases/clase-01.html#tema",
     "href": "clases/clase-01.html#tema",
-    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
     "section": "",
     "text": "Interrupciones"
   },
   {
     "objectID": "clases/clase-01.html#tarea",
     "href": "clases/clase-01.html#tarea",
-    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
     "section": "✏️ Tarea",
-    "text": "✏️ Tarea\n\n\n\nEnunciado de la tarea en clase 2\n\n\nSolución:"
+    "text": "✏️ Tarea\n\n\n\nEnunciado de la tarea en clase 1\n\n\nSolución:"
   },
   {
     "objectID": "clases/clase-01.html#ejercicios-en-pdf",
     "href": "clases/clase-01.html#ejercicios-en-pdf",
-    "title": "✏️ Tarea en clase 2: Interrupciones",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
     "section": "📄 Ejercicios en PDF",
     "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
-  },
-  {
-    "objectID": "clases/clase-01.html#conclusión",
-    "href": "clases/clase-01.html#conclusión",
-    "title": "✏️ Tarea en clase 2: Interrupciones",
-    "section": "✅ Conclusión",
-    "text": "✅ Conclusión\nEscribe aquí lo que aprendiste."
   },
   {
     "objectID": "about.html",
@@ -95,14 +102,14 @@
     "href": "clases.html",
     "title": "🧑‍🏫 Trabajos en clase",
     "section": "",
-    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 2: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 1: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "deberes.html",
     "href": "deberes.html",
     "title": "📘 Deberes",
     "section": "",
-    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo hay resultados"
+    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n📘 Deber 1\n\n\n\nDeber\n\n\n\n\n\n\n\n\n\n16 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "laboratorios/lab-01.html",
