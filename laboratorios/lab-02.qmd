@@ -1,0 +1,21 @@
+---
+title: "🧪 Laboratorio 2"
+description: "Informe del segundo laboratorio de Sistemas Operativos."
+date: 2026-10-19
+categories: [Laboratorio]
+toc: true
+---
+
+## 📋 Resumen
+
+El Laboratorio III de Sistemas Operativos se enfoca en la gestión, monitoreo y control de procesos en un entorno multiusuario mediante la terminal de Ubuntu Server. A lo largo de la práctica se crearon cuentas de usuario para ejecutar tareas de larga duración en segundo plano, se utilizaron comandos estáticos (ps) y herramientas interactivas de tiempo real (top, htop) para analizar el consumo de CPU y memoria, y se exploraron privilegios administrativos a nivel de root. Asimismo, el laboratorio comprende la aplicación de señales de terminación segura y forzada (kill), así como el ajuste de prioridades de procesamiento mediante el comando nice
+
+## 📄 Informe en PDF
+
+[📥 Descargar PDF](../archivos/lab-02.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/lab-02.pdf"></iframe>
+
+## ✅ Conclusiones
+
+En conclusión, la gestión de procesos en Linux es clave para administrar eficientemente los recursos del Servidor ya que estas herramientas interactivas como top e htop optimizan el monitoreo frente al comando estático. Asimismo, se comprobó que priorizar la terminación normal sobre la forzada es vital para proteger la integridad de los datos. Finalmente, el ajuste con nice demostró ser el mejor mecanismo para equilibrar la CPU, permitiendo ejecutar tareas pesadas en segundo plano sin afectar el rendimiento global ni a otros usuarios
