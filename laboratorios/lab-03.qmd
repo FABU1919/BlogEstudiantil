@@ -9,8 +9,7 @@ toc: true
 ## 📋 Resumen
 
 El Laboratorio III de Sistemas Operativos se analiza prácticamente la creación, sincronización y reemplazo de procesos en Linux  
-utilizando scripts en Python. Mediante herramientas de monitoreo del sistema, se examina el ciclo de vida y   
-la jerarquía de los procesos concurrentes, identificando cómo la falta de sincronización entre padres e hijos 
+utilizando scripts en Python. Mediante herramientas de monitoreo del sistema, se examina el ciclo de vida y la jerarquía de los procesos concurrentes, identificando cómo la falta de sincronización entre padres e hijos 
 genera estados anómalos como procesos huérfanos y zombis 
 
 ## 📄 Informe en PDF
@@ -22,6 +21,5 @@ genera estados anómalos como procesos huérfanos y zombis
 ## ✅ Conclusiones
 
 La práctica demostró empíricamente que sincronizar procesos mediante wait() es indispensable para  
-recolectar estados de salida y evitar la acumulación de procesos zombis en el sistema. Asimismo, se   
-comprobó que cuando un proceso supervisor termina prematuramente, el sistema operativo interviene 
+recolectar estados de salida y evitar la acumulación de procesos zombis en el sistema. Asimismo, se comprobó que cuando un proceso supervisor termina prematuramente, el sistema operativo interviene 
 automáticamente para adoptar a los procesos huérfanos resultantes

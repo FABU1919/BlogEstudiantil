@@ -1,0 +1,17 @@
+---
+title: "📘 Deber 2"
+description: "Mutexes y semáforos "
+date: 2026-10-26
+categories: [Deber]
+toc: true
+lightbox: true
+---
+
+## 📋 Enunciado
+![Enunciado del ejercicio ](../imagenes/enunciadoTarea2.png){width=100%}
+
+## 📄 Solución en PDF
+
+[📥 Descargar PDF](../archivos/deber002J_Cusquillo.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/deber002J_Cusquillo.pdf"></iframe>
