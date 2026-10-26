@@ -56,46 +56,32 @@
     "text": "Temas de la materia"
   },
   {
-    "objectID": "deberes/deber-01.html",
-    "href": "deberes/deber-01.html",
-    "title": "📘 Deber 1",
+    "objectID": "deberes/deber-02.html",
+    "href": "deberes/deber-02.html",
+    "title": "📘 Deber 2",
     "section": "",
-    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+    "text": "Enunciado del ejercicio"
   },
   {
-    "objectID": "deberes/deber-01.html#enunciado",
-    "href": "deberes/deber-01.html#enunciado",
-    "title": "📘 Deber 1",
+    "objectID": "deberes/deber-02.html#enunciado",
+    "href": "deberes/deber-02.html#enunciado",
+    "title": "📘 Deber 2",
     "section": "",
-    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+    "text": "Enunciado del ejercicio"
   },
   {
-    "objectID": "clases/clase-01.html",
-    "href": "clases/clase-01.html",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
+    "objectID": "deberes/deber-02.html#solución-en-pdf",
+    "href": "deberes/deber-02.html#solución-en-pdf",
+    "title": "📘 Deber 2",
+    "section": "📄 Solución en PDF",
+    "text": "📄 Solución en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "clases.html",
+    "href": "clases.html",
+    "title": "🧑‍🏫 Trabajos en clase",
     "section": "",
-    "text": "Interrupciones"
-  },
-  {
-    "objectID": "clases/clase-01.html#tema",
-    "href": "clases/clase-01.html#tema",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
-    "section": "",
-    "text": "Interrupciones"
-  },
-  {
-    "objectID": "clases/clase-01.html#tarea",
-    "href": "clases/clase-01.html#tarea",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
-    "section": "✏️ Tarea",
-    "text": "✏️ Tarea\n\n\n\nEnunciado de la tarea en clase 1\n\n\nSolución:"
-  },
-  {
-    "objectID": "clases/clase-01.html#ejercicios-en-pdf",
-    "href": "clases/clase-01.html#ejercicios-en-pdf",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
-    "section": "📄 Ejercicios en PDF",
-    "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
+    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 1: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "about.html",
@@ -126,18 +112,53 @@
     "text": "Contacto\n\nGitHub: FABU1919\nLinkedIn: Justin-Fabian-Cusquillo-Guadamud\nNumero de contacto: +593986159658"
   },
   {
-    "objectID": "clases.html",
-    "href": "clases.html",
-    "title": "🧑‍🏫 Trabajos en clase",
+    "objectID": "clases/clase-01.html",
+    "href": "clases/clase-01.html",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
     "section": "",
-    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 1: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "Interrupciones"
+  },
+  {
+    "objectID": "clases/clase-01.html#tema",
+    "href": "clases/clase-01.html#tema",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
+    "section": "",
+    "text": "Interrupciones"
+  },
+  {
+    "objectID": "clases/clase-01.html#tarea",
+    "href": "clases/clase-01.html#tarea",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
+    "section": "✏️ Tarea",
+    "text": "✏️ Tarea\n\n\n\nEnunciado de la tarea en clase 1\n\n\nSolución:"
+  },
+  {
+    "objectID": "clases/clase-01.html#ejercicios-en-pdf",
+    "href": "clases/clase-01.html#ejercicios-en-pdf",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
+    "section": "📄 Ejercicios en PDF",
+    "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "deberes/deber-01.html",
+    "href": "deberes/deber-01.html",
+    "title": "📘 Deber 1",
+    "section": "",
+    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "deberes/deber-01.html#enunciado",
+    "href": "deberes/deber-01.html#enunciado",
+    "title": "📘 Deber 1",
+    "section": "",
+    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
     "objectID": "deberes.html",
     "href": "deberes.html",
     "title": "📘 Deberes",
     "section": "",
-    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n📘 Deber 1\n\n\n\nDeber\n\n\n\nMáquina hipotética e interrupciones en una Raspberry Pi.\n\n\n\n\n\n16 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n📘 Deber 2\n\n\n\nDeber\n\n\n\nMutexes y semáforos\n\n\n\n\n\n26 oct 2026\n\n\n\n\n\n\n\n📘 Deber 1\n\n\n\nDeber\n\n\n\nMáquina hipotética e interrupciones en una Raspberry Pi.\n\n\n\n\n\n16 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "laboratorios/lab-01.html",
@@ -172,14 +193,14 @@
     "href": "laboratorios/lab-03.html",
     "title": "🧪 Laboratorio 3",
     "section": "",
-    "text": "El Laboratorio III de Sistemas Operativos se analiza prácticamente la creación, sincronización y reemplazo de procesos en Linux\nutilizando scripts en Python. Mediante herramientas de monitoreo del sistema, se examina el ciclo de vida y\nla jerarquía de los procesos concurrentes, identificando cómo la falta de sincronización entre padres e hijos genera estados anómalos como procesos huérfanos y zombis"
+    "text": "El Laboratorio III de Sistemas Operativos se analiza prácticamente la creación, sincronización y reemplazo de procesos en Linux\nutilizando scripts en Python. Mediante herramientas de monitoreo del sistema, se examina el ciclo de vida y la jerarquía de los procesos concurrentes, identificando cómo la falta de sincronización entre padres e hijos genera estados anómalos como procesos huérfanos y zombis"
   },
   {
     "objectID": "laboratorios/lab-03.html#resumen",
     "href": "laboratorios/lab-03.html#resumen",
     "title": "🧪 Laboratorio 3",
     "section": "",
-    "text": "El Laboratorio III de Sistemas Operativos se analiza prácticamente la creación, sincronización y reemplazo de procesos en Linux\nutilizando scripts en Python. Mediante herramientas de monitoreo del sistema, se examina el ciclo de vida y\nla jerarquía de los procesos concurrentes, identificando cómo la falta de sincronización entre padres e hijos genera estados anómalos como procesos huérfanos y zombis"
+    "text": "El Laboratorio III de Sistemas Operativos se analiza prácticamente la creación, sincronización y reemplazo de procesos en Linux\nutilizando scripts en Python. Mediante herramientas de monitoreo del sistema, se examina el ciclo de vida y la jerarquía de los procesos concurrentes, identificando cómo la falta de sincronización entre padres e hijos genera estados anómalos como procesos huérfanos y zombis"
   },
   {
     "objectID": "laboratorios/lab-03.html#informe-en-pdf",
@@ -193,6 +214,6 @@
     "href": "laboratorios/lab-03.html#conclusiones",
     "title": "🧪 Laboratorio 3",
     "section": "✅ Conclusiones",
-    "text": "✅ Conclusiones\nLa práctica demostró empíricamente que sincronizar procesos mediante wait() es indispensable para\nrecolectar estados de salida y evitar la acumulación de procesos zombis en el sistema. Asimismo, se\ncomprobó que cuando un proceso supervisor termina prematuramente, el sistema operativo interviene automáticamente para adoptar a los procesos huérfanos resultantes"
+    "text": "✅ Conclusiones\nLa práctica demostró empíricamente que sincronizar procesos mediante wait() es indispensable para\nrecolectar estados de salida y evitar la acumulación de procesos zombis en el sistema. Asimismo, se comprobó que cuando un proceso supervisor termina prematuramente, el sistema operativo interviene automáticamente para adoptar a los procesos huérfanos resultantes"
   }
 ]
