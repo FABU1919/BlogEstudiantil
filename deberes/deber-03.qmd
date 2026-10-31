@@ -1,0 +1,17 @@
+---
+title: "📘 Deber 3"
+description: "Coreccion Ejercicio Laboratorio Implementacion de Procesos"
+date: 2026-11-04
+categories: [Deber]
+toc: true
+lightbox: true
+---
+
+## 📋 Enunciado
+En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario
+
+## 📄 Solución en PDF
+
+[📥 Descargar PDF](../archivos/deber003J_Cusquillo.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/deber003J_Cusquillo.pdf"></iframe>
