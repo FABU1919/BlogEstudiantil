@@ -56,67 +56,53 @@
     "text": "Temas de la materia"
   },
   {
-    "objectID": "deberes/deber-03.html",
-    "href": "deberes/deber-03.html",
+    "objectID": "deberes/deber-04.html",
+    "href": "deberes/deber-04.html",
     "title": "📘 Deber 3",
     "section": "",
-    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2"
   },
   {
-    "objectID": "deberes/deber-03.html#enunciado",
-    "href": "deberes/deber-03.html#enunciado",
+    "objectID": "deberes/deber-04.html#enunciado",
+    "href": "deberes/deber-04.html#enunciado",
     "title": "📘 Deber 3",
     "section": "",
-    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2"
   },
   {
-    "objectID": "deberes/deber-03.html#solución-en-pdf",
-    "href": "deberes/deber-03.html#solución-en-pdf",
+    "objectID": "deberes/deber-04.html#solución-en-pdf",
+    "href": "deberes/deber-04.html#solución-en-pdf",
     "title": "📘 Deber 3",
     "section": "📄 Solución en PDF",
     "text": "📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-01.html",
-    "href": "deberes/deber-01.html",
-    "title": "📘 Deber 1",
+    "objectID": "deberes/deber-02.html",
+    "href": "deberes/deber-02.html",
+    "title": "📘 Deber 2",
     "section": "",
-    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+    "text": "Enunciado del ejercicio"
   },
   {
-    "objectID": "deberes/deber-01.html#enunciado",
-    "href": "deberes/deber-01.html#enunciado",
-    "title": "📘 Deber 1",
+    "objectID": "deberes/deber-02.html#enunciado",
+    "href": "deberes/deber-02.html#enunciado",
+    "title": "📘 Deber 2",
     "section": "",
-    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+    "text": "Enunciado del ejercicio"
   },
   {
-    "objectID": "clases/clase-01.html",
-    "href": "clases/clase-01.html",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
+    "objectID": "deberes/deber-02.html#solución-en-pdf",
+    "href": "deberes/deber-02.html#solución-en-pdf",
+    "title": "📘 Deber 2",
+    "section": "📄 Solución en PDF",
+    "text": "📄 Solución en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "clases.html",
+    "href": "clases.html",
+    "title": "🧑‍🏫 Trabajos en clase",
     "section": "",
-    "text": "Interrupciones"
-  },
-  {
-    "objectID": "clases/clase-01.html#tema",
-    "href": "clases/clase-01.html#tema",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
-    "section": "",
-    "text": "Interrupciones"
-  },
-  {
-    "objectID": "clases/clase-01.html#tarea",
-    "href": "clases/clase-01.html#tarea",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
-    "section": "✏️ Tarea",
-    "text": "✏️ Tarea\n\n\n\nEnunciado de la tarea en clase 1\n\n\nSolución:"
-  },
-  {
-    "objectID": "clases/clase-01.html#ejercicios-en-pdf",
-    "href": "clases/clase-01.html#ejercicios-en-pdf",
-    "title": "✏️ Tarea en clase 1: Interrupciones",
-    "section": "📄 Ejercicios en PDF",
-    "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
+    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 1: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "about.html",
@@ -147,30 +133,65 @@
     "text": "Contacto\n\nGitHub: FABU1919\nLinkedIn: Justin-Fabian-Cusquillo-Guadamud\nNumero de contacto: +593986159658"
   },
   {
-    "objectID": "clases.html",
-    "href": "clases.html",
-    "title": "🧑‍🏫 Trabajos en clase",
+    "objectID": "clases/clase-01.html",
+    "href": "clases/clase-01.html",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
     "section": "",
-    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 1: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "Interrupciones"
   },
   {
-    "objectID": "deberes/deber-02.html",
-    "href": "deberes/deber-02.html",
-    "title": "📘 Deber 2",
+    "objectID": "clases/clase-01.html#tema",
+    "href": "clases/clase-01.html#tema",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
     "section": "",
-    "text": "Enunciado del ejercicio"
+    "text": "Interrupciones"
   },
   {
-    "objectID": "deberes/deber-02.html#enunciado",
-    "href": "deberes/deber-02.html#enunciado",
-    "title": "📘 Deber 2",
-    "section": "",
-    "text": "Enunciado del ejercicio"
+    "objectID": "clases/clase-01.html#tarea",
+    "href": "clases/clase-01.html#tarea",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
+    "section": "✏️ Tarea",
+    "text": "✏️ Tarea\n\n\n\nEnunciado de la tarea en clase 1\n\n\nSolución:"
   },
   {
-    "objectID": "deberes/deber-02.html#solución-en-pdf",
-    "href": "deberes/deber-02.html#solución-en-pdf",
-    "title": "📘 Deber 2",
+    "objectID": "clases/clase-01.html#ejercicios-en-pdf",
+    "href": "clases/clase-01.html#ejercicios-en-pdf",
+    "title": "✏️ Tarea en clase 1: Interrupciones",
+    "section": "📄 Ejercicios en PDF",
+    "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "deberes/deber-01.html",
+    "href": "deberes/deber-01.html",
+    "title": "📘 Deber 1",
+    "section": "",
+    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "deberes/deber-01.html#enunciado",
+    "href": "deberes/deber-01.html#enunciado",
+    "title": "📘 Deber 1",
+    "section": "",
+    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+  },
+  {
+    "objectID": "deberes/deber-03.html",
+    "href": "deberes/deber-03.html",
+    "title": "📘 Deber 3",
+    "section": "",
+    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+  },
+  {
+    "objectID": "deberes/deber-03.html#enunciado",
+    "href": "deberes/deber-03.html#enunciado",
+    "title": "📘 Deber 3",
+    "section": "",
+    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+  },
+  {
+    "objectID": "deberes/deber-03.html#solución-en-pdf",
+    "href": "deberes/deber-03.html#solución-en-pdf",
+    "title": "📘 Deber 3",
     "section": "📄 Solución en PDF",
     "text": "📄 Solución en PDF\n📥 Descargar PDF"
   },
@@ -179,7 +200,7 @@
     "href": "deberes.html",
     "title": "📘 Deberes",
     "section": "",
-    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n📘 Deber 3\n\n\n\nDeber\n\n\n\nCoreccion Ejercicio Laboratorio Implementacion de Procesos\n\n\n\n\n\n4 nov 2026\n\n\n\n\n\n\n\n📘 Deber 2\n\n\n\nDeber\n\n\n\nMutexes y semáforos\n\n\n\n\n\n26 oct 2026\n\n\n\n\n\n\n\n📘 Deber 1\n\n\n\nDeber\n\n\n\nMáquina hipotética e interrupciones en una Raspberry Pi.\n\n\n\n\n\n16 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n📘 Deber 3\n\n\n\nDeber\n\n\n\nCoreccion Ejercicio Laboratorio Implementacion de Procesos\n\n\n\n\n\n4 nov 2026\n\n\n\n\n\n\n\n📘 Deber 2\n\n\n\nDeber\n\n\n\nMutexes y semáforos\n\n\n\n\n\n26 oct 2026\n\n\n\n\n\n\n\n📘 Deber 3\n\n\n\nDeber\n\n\n\nSemaforos\n\n\n\n\n\n26 oct 2026\n\n\n\n\n\n\n\n📘 Deber 1\n\n\n\nDeber\n\n\n\nMáquina hipotética e interrupciones en una Raspberry Pi.\n\n\n\n\n\n16 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "laboratorios/lab-01.html",
