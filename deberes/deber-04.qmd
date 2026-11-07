@@ -1,7 +1,7 @@
 ---
-title: "📘 Deber 3"
+title: "📘 Deber 4"
 description: "Semaforos"
-date: 2026-10-26
+date: 2026-11-09
 categories: [Deber]
 toc: true
 lightbox: true
