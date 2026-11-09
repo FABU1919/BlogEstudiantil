@@ -1,0 +1,22 @@
+---
+title: "🧪 Laboratorio 4"
+description: "Informe del cuarto laboratorio de Sistemas Operativos."
+date: 2026-11-13
+categories: [Laboratorio]
+toc: true
+---
+
+## 📋 Resumen
+
+Cuando varios hilos comparten recursos, como un archivo o un contador, pueden aparecer errores porque el orden de ejecución cambia en cada corrida, para evitarlo se usan mecanismos de sincronización como los semáforos y los mutex y en este laboratorio se aplicaron en Python con la biblioteca threading en tres casos: tres agentes de IA que comparten un LLM en un orden fijo, la escritura con y sin exclusión mutua, y un sistema de lectores y escritores sobre un archivo
+
+## 📄 Informe en PDF
+
+[📥 Descargar PDF](../archivos/lab-04.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/lab-04.pdf"></iframe>
+
+## ✅ Conclusiones
+
+En este laboratorio se comprobó que los semáforos permiten coordinar hilos en Python, tanto para imponer un orden de ejecución como para controlar el acceso a un recurso compartido y sin exclusión mutua aparecieron condiciones de carrera, mientras que con semáforos el contador y el archivo quedaron correctos
+En lectores y escritores, varios lectores pudieron leer a la vez y cada escritor accedió de forma exclusiva,manteniendo la integridad de BASE.txt y por lo tanto, la sincronización es esencial para que los hilos trabajen de forma segura y predecible
