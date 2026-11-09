@@ -2,15 +2,10 @@
   {
     "listing": "/laboratorios.html",
     "items": [
+      "/laboratorios/lab-04.html",
       "/laboratorios/lab-03.html",
       "/laboratorios/lab-02.html",
       "/laboratorios/lab-01.html"
-    ]
-  },
-  {
-    "listing": "/clases.html",
-    "items": [
-      "/clases/clase-01.html"
     ]
   },
   {
@@ -20,6 +15,12 @@
       "/deberes/deber-03.html",
       "/deberes/deber-02.html",
       "/deberes/deber-01.html"
+    ]
+  },
+  {
+    "listing": "/clases.html",
+    "items": [
+      "/clases/clase-01.html"
     ]
   }
 ]
