@@ -1,0 +1,22 @@
+---
+title: "🧪 Laboratorio 5"
+description: "Informe del quinto laboratorio de Sistemas Operativos."
+date: 2026-11-13
+categories: [Laboratorio]
+toc: true
+---
+
+## 📋 Resumen
+
+La comunicación entre procesos (IPC) permite que programas independientes intercambien información o coordinen sus acciones y en este laboratorio estudia dos mecanismos en Linux: las señales POSIX, que son avisos asíncronos del kernel a un proceso y no transportan datos, y los sockets TCP, que ofrecen un flujo de bytes fiable entre un servidor y un cliente, en la misma máquina o en red. Se implementaron programas en Python para ambos casos y se verificó su funcionamiento con herramientas como ps y ss
+
+## 📄 Informe en PDF
+
+[📥 Descargar PDF](../archivos/lab-05.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/lab-05.pdf"></iframe>
+
+## ✅ Conclusiones
+
+Las señales POSIX notifican eventos pero no transportan datos, y SIGSTOP y SIGCONT mostraron que el kernel puede suspender y reanudar un proceso, mientras que los sockets TCP ofrecen un flujo de bytes fiable sin fronteras de mensaje, por lo que se usó un delimitador de línea, un límite de lectura y validación UTF-8, y con ss se verificó el puerto en LISTEN y la conexión en ESTAB con un servidor final que atendió clientes sucesivos y que, al escuchar en una IP de red, permitió la comunicación entre equipos, aunque exige limitar el 
+acceso a la red local
