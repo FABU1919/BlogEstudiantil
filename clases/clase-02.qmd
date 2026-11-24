@@ -1,0 +1,20 @@
+---
+title: "✏️ Tarea en clase 2: Planificación de procesos Round Robin"
+date: 2026-11-16
+categories: [Tarea en clase]
+toc: true
+---
+
+## 📌 Tema
+
+Planificacion de procesos Round Robin
+
+## ✏️ Tarea
+**Solución:**
+
+## 📄 Ejercicios en PDF
+
+[📥 Descargar PDF](../archivos/TareaEnClase2.pdf){.btn-descarga}
+
+<iframe class="visor-pdf" src="../archivos/TareaEnClase2.pdf"></iframe>
+

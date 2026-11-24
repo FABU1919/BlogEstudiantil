@@ -8,7 +8,7 @@ toc: true
 
 ## 📋 Resumen
 
-El Laboratorio III de Sistemas Operativos se enfoca en la gestión, monitoreo y control de procesos en un entorno multiusuario mediante la terminal de Ubuntu Server. A lo largo de la práctica se crearon cuentas de usuario para ejecutar tareas de larga duración en segundo plano, se utilizaron comandos estáticos (ps) y herramientas interactivas de tiempo real (top, htop) para analizar el consumo de CPU y memoria, y se exploraron privilegios administrativos a nivel de root. Asimismo, el laboratorio comprende la aplicación de señales de terminación segura y forzada (kill), así como el ajuste de prioridades de procesamiento mediante el comando nice
+El Laboratorio II de Sistemas Operativos se enfoca en la gestión, monitoreo y control de procesos en un entorno multiusuario mediante la terminal de Ubuntu Server. A lo largo de la práctica se crearon cuentas de usuario para ejecutar tareas de larga duración en segundo plano, se utilizaron comandos estáticos (ps) y herramientas interactivas de tiempo real (top, htop) para analizar el consumo de CPU y memoria, y se exploraron privilegios administrativos a nivel de root. Asimismo, el laboratorio comprende la aplicación de señales de terminación segura y forzada (kill), así como el ajuste de prioridades de procesamiento mediante el comando nice
 
 ## 📄 Informe en PDF
 
