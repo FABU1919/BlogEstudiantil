@@ -4,7 +4,7 @@
     "href": "laboratorios.html",
     "title": "🧪 Laboratorios",
     "section": "",
-    "text": "🐧 Prácticas de laboratorio de Sistemas Operativos, con comandos, resultados y conclusiones.\n\n\n\n\n\n\n\n\n\n🧪 Laboratorio 4\n\n\n\nLaboratorio\n\n\n\nInforme del cuarto laboratorio de Sistemas Operativos.\n\n\n\n\n\n13 nov 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 5\n\n\n\nLaboratorio\n\n\n\nInforme del quinto laboratorio de Sistemas Operativos.\n\n\n\n\n\n13 nov 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 3\n\n\n\nLaboratorio\n\n\n\nInforme del tercer laboratorio de Sistemas Operativos.\n\n\n\n\n\n25 oct 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 2\n\n\n\nLaboratorio\n\n\n\nInforme del segundo laboratorio de Sistemas Operativos.\n\n\n\n\n\n19 oct 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 1\n\n\n\nLaboratorio\n\n\n\nInforme del primer laboratorio de Sistemas Operativos.\n\n\n\n\n\n6 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "🐧 Prácticas de laboratorio de Sistemas Operativos, con comandos, resultados y conclusiones.\n\n\n\n\n\n\n\n\n\n🧪 Laboratorio 5\n\n\n\nLaboratorio\n\n\n\nInforme del quinto laboratorio de Sistemas Operativos.\n\n\n\n\n\n20 nov 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 4\n\n\n\nLaboratorio\n\n\n\nInforme del cuarto laboratorio de Sistemas Operativos.\n\n\n\n\n\n13 nov 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 3\n\n\n\nLaboratorio\n\n\n\nInforme del tercer laboratorio de Sistemas Operativos.\n\n\n\n\n\n25 oct 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 2\n\n\n\nLaboratorio\n\n\n\nInforme del segundo laboratorio de Sistemas Operativos.\n\n\n\n\n\n19 oct 2026\n\n\n\n\n\n\n\n🧪 Laboratorio 1\n\n\n\nLaboratorio\n\n\n\nInforme del primer laboratorio de Sistemas Operativos.\n\n\n\n\n\n6 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "laboratorios/lab-04.html",
@@ -39,14 +39,14 @@
     "href": "laboratorios/lab-02.html",
     "title": "🧪 Laboratorio 2",
     "section": "",
-    "text": "El Laboratorio III de Sistemas Operativos se enfoca en la gestión, monitoreo y control de procesos en un entorno multiusuario mediante la terminal de Ubuntu Server. A lo largo de la práctica se crearon cuentas de usuario para ejecutar tareas de larga duración en segundo plano, se utilizaron comandos estáticos (ps) y herramientas interactivas de tiempo real (top, htop) para analizar el consumo de CPU y memoria, y se exploraron privilegios administrativos a nivel de root. Asimismo, el laboratorio comprende la aplicación de señales de terminación segura y forzada (kill), así como el ajuste de prioridades de procesamiento mediante el comando nice"
+    "text": "El Laboratorio II de Sistemas Operativos se enfoca en la gestión, monitoreo y control de procesos en un entorno multiusuario mediante la terminal de Ubuntu Server. A lo largo de la práctica se crearon cuentas de usuario para ejecutar tareas de larga duración en segundo plano, se utilizaron comandos estáticos (ps) y herramientas interactivas de tiempo real (top, htop) para analizar el consumo de CPU y memoria, y se exploraron privilegios administrativos a nivel de root. Asimismo, el laboratorio comprende la aplicación de señales de terminación segura y forzada (kill), así como el ajuste de prioridades de procesamiento mediante el comando nice"
   },
   {
     "objectID": "laboratorios/lab-02.html#resumen",
     "href": "laboratorios/lab-02.html#resumen",
     "title": "🧪 Laboratorio 2",
     "section": "",
-    "text": "El Laboratorio III de Sistemas Operativos se enfoca en la gestión, monitoreo y control de procesos en un entorno multiusuario mediante la terminal de Ubuntu Server. A lo largo de la práctica se crearon cuentas de usuario para ejecutar tareas de larga duración en segundo plano, se utilizaron comandos estáticos (ps) y herramientas interactivas de tiempo real (top, htop) para analizar el consumo de CPU y memoria, y se exploraron privilegios administrativos a nivel de root. Asimismo, el laboratorio comprende la aplicación de señales de terminación segura y forzada (kill), así como el ajuste de prioridades de procesamiento mediante el comando nice"
+    "text": "El Laboratorio II de Sistemas Operativos se enfoca en la gestión, monitoreo y control de procesos en un entorno multiusuario mediante la terminal de Ubuntu Server. A lo largo de la práctica se crearon cuentas de usuario para ejecutar tareas de larga duración en segundo plano, se utilizaron comandos estáticos (ps) y herramientas interactivas de tiempo real (top, htop) para analizar el consumo de CPU y memoria, y se exploraron privilegios administrativos a nivel de root. Asimismo, el laboratorio comprende la aplicación de señales de terminación segura y forzada (kill), así como el ajuste de prioridades de procesamiento mediante el comando nice"
   },
   {
     "objectID": "laboratorios/lab-02.html#informe-en-pdf",
@@ -84,53 +84,81 @@
     "text": "Temas de la materia"
   },
   {
-    "objectID": "deberes/deber-04.html",
-    "href": "deberes/deber-04.html",
-    "title": "📘 Deber 4",
+    "objectID": "deberes/deber-05.html",
+    "href": "deberes/deber-05.html",
+    "title": "📘 Deber 5",
     "section": "",
-    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2"
+    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2\n\n\n ## 📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-04.html#enunciado",
-    "href": "deberes/deber-04.html#enunciado",
-    "title": "📘 Deber 4",
+    "objectID": "deberes/deber-05.html#enunciado",
+    "href": "deberes/deber-05.html#enunciado",
+    "title": "📘 Deber 5",
     "section": "",
-    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2"
+    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2\n\n\n ## 📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-04.html#solución-en-pdf",
-    "href": "deberes/deber-04.html#solución-en-pdf",
-    "title": "📘 Deber 4",
+    "objectID": "deberes/deber-03.html",
+    "href": "deberes/deber-03.html",
+    "title": "📘 Deber 3",
+    "section": "",
+    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+  },
+  {
+    "objectID": "deberes/deber-03.html#enunciado",
+    "href": "deberes/deber-03.html#enunciado",
+    "title": "📘 Deber 3",
+    "section": "",
+    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+  },
+  {
+    "objectID": "deberes/deber-03.html#solución-en-pdf",
+    "href": "deberes/deber-03.html#solución-en-pdf",
+    "title": "📘 Deber 3",
     "section": "📄 Solución en PDF",
     "text": "📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-02.html",
-    "href": "deberes/deber-02.html",
-    "title": "📘 Deber 2",
+    "objectID": "deberes/deber-01.html",
+    "href": "deberes/deber-01.html",
+    "title": "📘 Deber 1",
     "section": "",
-    "text": "Enunciado del ejercicio"
+    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-02.html#enunciado",
-    "href": "deberes/deber-02.html#enunciado",
-    "title": "📘 Deber 2",
+    "objectID": "deberes/deber-01.html#enunciado",
+    "href": "deberes/deber-01.html#enunciado",
+    "title": "📘 Deber 1",
     "section": "",
-    "text": "Enunciado del ejercicio"
+    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-02.html#solución-en-pdf",
-    "href": "deberes/deber-02.html#solución-en-pdf",
-    "title": "📘 Deber 2",
-    "section": "📄 Solución en PDF",
-    "text": "📄 Solución en PDF\n📥 Descargar PDF"
+    "objectID": "clases/clase-02.html",
+    "href": "clases/clase-02.html",
+    "title": "✏️ Tarea en clase 2: Planificación de procesos Round Robin",
+    "section": "",
+    "text": "Planificacion de procesos Round Robin"
   },
   {
-    "objectID": "clases.html",
-    "href": "clases.html",
-    "title": "🧑‍🏫 Trabajos en clase",
+    "objectID": "clases/clase-02.html#tema",
+    "href": "clases/clase-02.html#tema",
+    "title": "✏️ Tarea en clase 2: Planificación de procesos Round Robin",
     "section": "",
-    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 1: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "Planificacion de procesos Round Robin"
+  },
+  {
+    "objectID": "clases/clase-02.html#tarea",
+    "href": "clases/clase-02.html#tarea",
+    "title": "✏️ Tarea en clase 2: Planificación de procesos Round Robin",
+    "section": "✏️ Tarea",
+    "text": "✏️ Tarea\nSolución:"
+  },
+  {
+    "objectID": "clases/clase-02.html#ejercicios-en-pdf",
+    "href": "clases/clase-02.html#ejercicios-en-pdf",
+    "title": "✏️ Tarea en clase 2: Planificación de procesos Round Robin",
+    "section": "📄 Ejercicios en PDF",
+    "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
   },
   {
     "objectID": "about.html",
@@ -189,37 +217,51 @@
     "text": "📄 Ejercicios en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-01.html",
-    "href": "deberes/deber-01.html",
-    "title": "📘 Deber 1",
+    "objectID": "clases.html",
+    "href": "clases.html",
+    "title": "🧑‍🏫 Trabajos en clase",
     "section": "",
-    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+    "text": "📝 Tareas y ejercicios realizados durante las clases de Sistemas Operativos.\n\n\n\n\n\n\n\n\n\n✏️ Tarea en clase 2: Planificación de procesos Round Robin\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n16 nov 2026\n\n\n\n\n\n\n\n✏️ Tarea en clase 1: Interrupciones\n\n\n\nTarea en clase\n\n\n\n\n\n\n\n\n\n12 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "deberes/deber-01.html#enunciado",
-    "href": "deberes/deber-01.html#enunciado",
-    "title": "📘 Deber 1",
+    "objectID": "deberes/deber-02.html",
+    "href": "deberes/deber-02.html",
+    "title": "📘 Deber 2",
     "section": "",
-    "text": "Resolver el ejercicio de la máquina hipotética, completando las tablas de memoria y el seguimiento de la ejecución de instrucciones. \n\n\n\nResolver el ejercicio de gestión de interrupciones en una Raspberry Pi. Dibujar la línea de tiempo de ejecución, determinar el orden de atención de las interrupciones y calcular el tiempo total de procesamiento.  ## 📄 Solución en PDF\n📥 Descargar PDF"
+    "text": "Enunciado del ejercicio"
   },
   {
-    "objectID": "deberes/deber-03.html",
-    "href": "deberes/deber-03.html",
-    "title": "📘 Deber 3",
+    "objectID": "deberes/deber-02.html#enunciado",
+    "href": "deberes/deber-02.html#enunciado",
+    "title": "📘 Deber 2",
     "section": "",
-    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+    "text": "Enunciado del ejercicio"
   },
   {
-    "objectID": "deberes/deber-03.html#enunciado",
-    "href": "deberes/deber-03.html#enunciado",
-    "title": "📘 Deber 3",
-    "section": "",
-    "text": "En Linux, un programa puede crear nuevos procesos para repartir su trabajo, esta práctica usa os.fork() para que un proceso hijo cree carpetas con el comando mkdir, mientras el padre espera su finalización con os.waitpid(). El hijo ejecuta el comando de dos formas, con subprocess.run() y con os.system(), para comparar cómo funciona cada una, cómo controlan los errores y qué riesgos de seguridad aparecen al usar texto ingresado por el usuario"
+    "objectID": "deberes/deber-02.html#solución-en-pdf",
+    "href": "deberes/deber-02.html#solución-en-pdf",
+    "title": "📘 Deber 2",
+    "section": "📄 Solución en PDF",
+    "text": "📄 Solución en PDF\n📥 Descargar PDF"
   },
   {
-    "objectID": "deberes/deber-03.html#solución-en-pdf",
-    "href": "deberes/deber-03.html#solución-en-pdf",
-    "title": "📘 Deber 3",
+    "objectID": "deberes/deber-04.html",
+    "href": "deberes/deber-04.html",
+    "title": "📘 Deber 4",
+    "section": "",
+    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2"
+  },
+  {
+    "objectID": "deberes/deber-04.html#enunciado",
+    "href": "deberes/deber-04.html#enunciado",
+    "title": "📘 Deber 4",
+    "section": "",
+    "text": "Enunciado del ejercicio 1\n\n\n\n\n\n\n\n\nEnunciado del ejercicio 2"
+  },
+  {
+    "objectID": "deberes/deber-04.html#solución-en-pdf",
+    "href": "deberes/deber-04.html#solución-en-pdf",
+    "title": "📘 Deber 4",
     "section": "📄 Solución en PDF",
     "text": "📄 Solución en PDF\n📥 Descargar PDF"
   },
@@ -228,7 +270,7 @@
     "href": "deberes.html",
     "title": "📘 Deberes",
     "section": "",
-    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n📘 Deber 4\n\n\n\nDeber\n\n\n\nSemaforos\n\n\n\n\n\n9 nov 2026\n\n\n\n\n\n\n\n📘 Deber 3\n\n\n\nDeber\n\n\n\nCoreccion Ejercicio Laboratorio Implementacion de Procesos\n\n\n\n\n\n4 nov 2026\n\n\n\n\n\n\n\n📘 Deber 2\n\n\n\nDeber\n\n\n\nMutexes y semáforos\n\n\n\n\n\n26 oct 2026\n\n\n\n\n\n\n\n📘 Deber 1\n\n\n\nDeber\n\n\n\nMáquina hipotética e interrupciones en una Raspberry Pi.\n\n\n\n\n\n16 oct 2026\n\n\n\n\n\nNo hay resultados"
+    "text": "✏️ Aquí están mis deberes de Sistemas Operativos, del más reciente al más antiguo.\n\n\n\n\n\n\n\n\n\n📘 Deber 5\n\n\n\nDeber\n\n\n\nPlanificación de procesos\n\n\n\n\n\n23 nov 2026\n\n\n\n\n\n\n\n📘 Deber 4\n\n\n\nDeber\n\n\n\nSemaforos\n\n\n\n\n\n9 nov 2026\n\n\n\n\n\n\n\n📘 Deber 3\n\n\n\nDeber\n\n\n\nCoreccion Ejercicio Laboratorio Implementacion de Procesos\n\n\n\n\n\n4 nov 2026\n\n\n\n\n\n\n\n📘 Deber 2\n\n\n\nDeber\n\n\n\nMutexes y semáforos\n\n\n\n\n\n26 oct 2026\n\n\n\n\n\n\n\n📘 Deber 1\n\n\n\nDeber\n\n\n\nMáquina hipotética e interrupciones en una Raspberry Pi.\n\n\n\n\n\n16 oct 2026\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "laboratorios/lab-01.html",
